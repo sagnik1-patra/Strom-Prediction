@@ -1,4 +1,4 @@
-🌪️ Hybrid AIS + PSO Tornado Prediction
+🌪️ Hybrid AIS + PSO Tornado Prediction.
 
 Deep Learning + Geometry-Based Features + Evolutionary Optimization
 
