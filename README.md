@@ -1,6 +1,6 @@
 🌪️ Hybrid AIS + PSO Tornado Prediction.
 
-Deep Learning + Geometry-Based Features + Evolutionary Optimization
+Deep Learning + Geometry-Based Features + Evolutionary Optimization.
 
 This project builds a Hybrid AIS (Artificial Immune System) + PSO (Particle Swarm Optimization)–optimized Neural Network to predict property damage caused by tornado events using NOAA’s storm dataset (tornado_path.csv).
 It processes geometric tornado path data, extracts centroid & length features, standardizes inputs, performs evolutionary hyperparameter tuning, trains an ANN, and generates 5 types of graphs.
